@@ -1,7 +1,7 @@
 local wezterm = require 'wezterm'
 local config = wezterm.config_builder()
 
-config.color_scheme = 'Darcula'
+config.color_scheme = 'zenbones_dark'
 config.font = wezterm.font('FiraCode Nerd Font', { weight = 'Regular' })
 config.font_size = 19
 
