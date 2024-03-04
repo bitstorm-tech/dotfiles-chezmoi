@@ -16,5 +16,6 @@ alias ...='cd ../..'
 alias ....='cd ../../..'
 alias vi='nvim'
 alias dotfiles='chezmoi'
+alias dotedit='dotfiles edit --watch'
 
 eval "$(starship init zsh)"
